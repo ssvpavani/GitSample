@@ -44,6 +44,9 @@ public class PostAPIStepDefinitions {
     {
 		response=requestspecification.request(Method.POST,"/users");
 		System.out.println("This is POST method");
+		System.out.println("postReqres1");
+		System.out.println("postReqres2");
+		System.out.println("postReqres3");
 
     }
  

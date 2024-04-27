@@ -44,9 +44,9 @@ public class PutAPIStepDefinitions {
     {
 		response=requestspecification.request(Method.PUT,"/user/2");
 		System.out.println("This is PUT method");
-		System.out.println("postReqres1");
-		System.out.println("postReqres2");
-		System.out.println("postReqres3");
+		System.out.println("putReqres1");
+		System.out.println("putReqres2");
+		System.out.println("putReqres3");
 
 
 
