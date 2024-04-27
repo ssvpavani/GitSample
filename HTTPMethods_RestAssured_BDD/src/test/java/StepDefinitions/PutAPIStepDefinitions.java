@@ -46,7 +46,7 @@ public class PutAPIStepDefinitions {
 		System.out.println("This is PUT method");
 		System.out.println("postReqres1");
 		System.out.println("postReqres2");
-		System.out.println("postReqres3");
+		System.out.println("postReqres");
 
 
 
