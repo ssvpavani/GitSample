@@ -37,8 +37,8 @@ public class PatchAPIStepDefinitions {
 	@And("Add PATCH method and the end point")
 	public void add_patch_method_and_the_end_point() {
 		response=requestspecification.request(Method.PATCH,"/user/2");
-		System.out.println("PatchReqres1");
 		System.out.println("This is patch metod");
+		System.out.println("PatchReqres1");
 
 
 
