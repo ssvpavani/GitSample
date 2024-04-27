@@ -43,6 +43,8 @@ public class PutAPIStepDefinitions {
     public void Add_POST_method_and_the_end_point()
     {
 		response=requestspecification.request(Method.PUT,"/user/2");
+		System.out.println("This is PUT method");
+
 
     }
  

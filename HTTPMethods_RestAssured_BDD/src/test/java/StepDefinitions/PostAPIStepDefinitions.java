@@ -43,6 +43,7 @@ public class PostAPIStepDefinitions {
     public void Add_POST_method_and_the_end_point()
     {
 		response=requestspecification.request(Method.POST,"/users");
+		System.out.println("This is POST method");
 
     }
  
